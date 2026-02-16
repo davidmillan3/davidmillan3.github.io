@@ -27,9 +27,9 @@ ORDER BY TOTAL_JOBS DESC;
 
 2. Identifique todos los empleados que vivan o trabajen en europa y que tengan un salario entre 4.000 Y 6.000 USD
 Columnas:
-1. Nombre y apellidos una solo columna
-2. País al que pertenece
-3. Salario que tiene
+Nombre y apellidos una solo columna
+País al que pertenece
+Salario que tiene
 
 ```sql
 SELECT
