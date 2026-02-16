@@ -17,34 +17,16 @@ const siteConfig: SiteConfig = {
     },
     headerNavLinks: [
         {
-            text: 'Home',
+            text: 'Inicio',
             href: '/'
         },
         {
-            text: 'Projects',
+            text: 'Proyectos',
             href: '/projects'
         },
-        {
-            text: 'Blog',
-            href: '/blog'
-        },
-        {
+       {
             text: 'Github',
             href: 'https://github.com/davidmillan3'
-        }
-    ],
-    footerNavLinks: [
-        {
-            text: 'About',
-            href: '/about'
-        },
-        {
-            text: 'Contact',
-            href: '/contact'
-        },
-        {
-            text: 'Terms',
-            href: '/terms'
         }
     ],
     socialLinks: [
@@ -64,14 +46,6 @@ const siteConfig: SiteConfig = {
             src: hero,
             alt: 'Mi video de presentación'
         },
-    },
-    subscribe: {
-        enabled: true,
-        title: 'Subscribe to Dante Newsletter',
-        text: 'One update per week. All the latest posts directly in your inbox.',
-        form: {
-            action: '#'
-        }
     },
     postsPerPage: 8,
     projectsPerPage: 8
