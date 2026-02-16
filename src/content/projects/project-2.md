@@ -25,11 +25,11 @@ ORDER BY TOTAL_JOBS DESC;
 ```
 ## Evidencia Script Ejercicio 2
 
-2. Identifique todos los empleados que vivan o trabajen en europa y que tengan un salario entre 4.000 Y 6.000 USD
+2. Identifique todos los empleados que vivan o trabajen en europa y que tengan un salario entre 4.000 Y 6.000 USD.
 Columnas:
-Nombre y apellidos una solo columna
-País al que pertenece
-Salario que tiene
+Nombre y apellidos una solo columna.
+País al que pertenece.
+Salario que tiene.
 
 ```sql
 SELECT
@@ -46,7 +46,7 @@ WHERE R.REGION_NAME = 'Europe'
 ```
 ## Evidencia Script Ejercicio 3
 
-3. Proyectar orden jerarquico de los cargos de los empleados, mostrar el nombre del empleado y sus jefes y extraer emails de los dos (Las primeras 3 letras, Luego rellenar 6 asteriscos a la izquierda)
+3. Proyectar orden jerarquico de los cargos de los empleados, mostrar el nombre del empleado y sus jefes y extraer emails de los dos (Las primeras 3 letras, Luego rellenar 6 asteriscos a la izquierda).
 
 ```sql
 SELECT 
@@ -62,4 +62,4 @@ ORDER BY E.EMPLOYEE_ID;
 
 ## Evidencia Script Ejercicio 4
 
-4. Creación e inserción de datos en Base de Datos "Andromeda"
+4. Creación e inserción de datos en Base de Datos "Andromeda".
