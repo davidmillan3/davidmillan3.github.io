@@ -47,7 +47,7 @@ const siteConfig: SiteConfig = {
             alt: 'Mi video de presentación'
         },
     },
-    projectsPerPage: 1
+    projectsPerPage: 4
 };
 
 export default siteConfig;
