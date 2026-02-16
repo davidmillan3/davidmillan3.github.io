@@ -8,8 +8,8 @@ const siteConfig: SiteConfig = {
         src: avatar,
         alt: 'Ethan Donovan'
     },
-    title: 'Dante',
-    subtitle: 'Minimal Astro.js theme',
+    title: 'David Felipe Millán Castañeda',
+    subtitle: 'Estudiante de Ingeniería de Sistemas',
     description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
     image: {
         src: '/dante-preview.jpg',
@@ -29,8 +29,8 @@ const siteConfig: SiteConfig = {
             href: '/blog'
         },
         {
-            text: 'Tags',
-            href: '/tags'
+            text: 'Github',
+            href: 'https://github.com/davidmillan3'
         }
     ],
     footerNavLinks: [
@@ -45,24 +45,16 @@ const siteConfig: SiteConfig = {
         {
             text: 'Terms',
             href: '/terms'
-        },
-        {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
         }
     ],
     socialLinks: [
         {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
-        },
-        {
             text: 'Instagram',
-            href: 'https://instagram.com/'
+            href: 'https://www.instagram.com/davidmillan034/?hl=es'
         },
         {
             text: 'X/Twitter',
-            href: 'https://twitter.com/'
+            href: 'https://x.com/DavidMillaan034'
         }
     ],
     hero: {
