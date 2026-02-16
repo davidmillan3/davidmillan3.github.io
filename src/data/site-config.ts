@@ -1,5 +1,5 @@
 import avatar from '../assets/images/MillonariosLogo.jpg';
-import hero from '../assets/images/hero.jpg';
+import hero from '../assets/images/VideoPresentacionBases.mp4';
 import type { SiteConfig } from '../types';
 
 const siteConfig: SiteConfig = {
