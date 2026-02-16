@@ -13,7 +13,7 @@ const siteConfig: SiteConfig = {
     description: 'Perfil básico.',
     image: {
         src: '/dante-preview.jpg',
-        alt: 'Dante - Astro.js and Tailwind CSS theme'
+        alt: 'Avatar David Millán'
     },
     headerNavLinks: [
         {
@@ -21,8 +21,8 @@ const siteConfig: SiteConfig = {
             href: '/'
         },
         {
-            text: 'Proyectos',
-            href: '/projects'
+            text: 'Evidencias',
+            href: '/evidencias'
         },
        {
             text: 'Github',
