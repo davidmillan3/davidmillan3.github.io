@@ -6,11 +6,11 @@ const siteConfig: SiteConfig = {
     website: 'https://example.com',
     avatar: {
         src: avatar,
-        alt: 'Ethan Donovan'
+        alt: 'Avatar David Millán'
     },
     title: 'David Felipe Millán Castañeda',
     subtitle: 'Estudiante de Ingeniería de Sistemas',
-    description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
+    description: 'Perfil básico.',
     image: {
         src: '/dante-preview.jpg',
         alt: 'Dante - Astro.js and Tailwind CSS theme'
